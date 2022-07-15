@@ -1,3 +1,7 @@
+[uBlock Origin]
+! Title: A blocklist of Murdoch related web sites.
+! Homepage: https://github.com/andrewc12/murdoch_blocklist/
+! Expires: 4 days
 ||1form.com^
 ||4kq.com.au^
 ||96fm.com.au^
